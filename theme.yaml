@@ -1,0 +1,6 @@
+name: 'mVacation'
+description: 'mVacation'
+author: 'Lionel, Tomoko, Higuchi'
+homepage: 'http://www.bluewall.jpn.com'
+code: newage
+form: fields.yaml
