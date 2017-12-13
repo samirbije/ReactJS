@@ -1,4 +1,4 @@
-# New Age theme for OctoberCMS
+# New Age theme for October CMS
 
 New Age is a Bootstrap app landing page theme to help you beautifully showcase your web app or anything else!
 
